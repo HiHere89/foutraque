@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Foutraque</title>
+        <link>http://example.org/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Thu, 17 Apr 2025 14:10:34 &#43;0200</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Le Fediverse</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Thu, 17 Apr 2025 14:10:34 &#43;0200</pubDate>
+    <author>xxxx</author>
+    <guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[<p>Hello,
+Ceci est un test</p>]]></description>
+</item>
+</channel>
+</rss>
