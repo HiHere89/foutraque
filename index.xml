@@ -7,11 +7,13 @@
             <atom:link href="https://hihere89.github.io/foutraque/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Le Fediverse</title>
-    <link>https://hihere89.github.io/foutraque/posts/first_post/</link>
+    <link>https://hihere89.github.io/foutraque/first_post/</link>
     <pubDate>Thu, 17 Apr 2025 14:10:34 &#43;0200</pubDate>
     <author>xxxx</author>
-    <guid>https://hihere89.github.io/foutraque/posts/first_post/</guid>
-    <description><![CDATA[<p>Hello,
+    <guid>https://hihere89.github.io/foutraque/first_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/foutraque/fediverseNetwork.webp" referrerpolicy="no-referrer">
+            </div><p>Hello,
 Ceci est un test</p>]]></description>
 </item>
 </channel>
