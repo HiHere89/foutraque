@@ -1,20 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Foutraque</title>
-        <link>https://hihere89.github.io/foutraque/</link>
+        <link>http://localhost:1313/foutraque/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Thu, 17 Apr 2025 14:10:34 &#43;0200</lastBuildDate>
-            <atom:link href="https://hihere89.github.io/foutraque/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://localhost:1313/foutraque/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Le Fediverse</title>
-    <link>https://hihere89.github.io/foutraque/first_post/</link>
+    <link>http://localhost:1313/foutraque/posts/first_post/</link>
     <pubDate>Thu, 17 Apr 2025 14:10:34 &#43;0200</pubDate>
-    <author>xxxx</author>
-    <guid>https://hihere89.github.io/foutraque/first_post/</guid>
+    <author>Me</author>
+    <guid>http://localhost:1313/foutraque/posts/first_post/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/foutraque/fediverseNetwork.webp" referrerpolicy="no-referrer">
+                <img src="/fediverseNetwork2.webp" referrerpolicy="no-referrer">
             </div><p>Hello,
-Ceci est un test</p>]]></description>
+Ceci est un test
+Et là, ca bouge ?
+Hey
+</p>
+<p>Ho?</p>]]></description>
 </item>
 </channel>
 </rss>

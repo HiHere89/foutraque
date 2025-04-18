@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://hihere89.github.io/foutraque/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hihere89.github.io/foutraque/first_post/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hihere89.github.io/foutraque/posts/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://hihere89.github.io/foutraque/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://hihere89.github.io/foutraque/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>http://localhost:1313/foutraque/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/foutraque/posts/first_post/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/foutraque/posts/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/foutraque/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/foutraque/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
