@@ -33,7 +33,7 @@ Cette faille a un nom. Un nom féerique.
 
 Coïncidence ? Je ne crois pas.
 
-![Une image qui représente un mur sinistre avec une faille qui donne vers un nouveau monde](forest.webp)
+![Une image qui représente une forêt sinistre avec une éclaircie au loin](forest.webp)
 
 ## Disclaimer
 
