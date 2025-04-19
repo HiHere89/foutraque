@@ -213,7 +213,7 @@ Si tu dois rechercher quelqu'un d'une autre instance du Fediverse, son adresse p
 
 Par exemple le compte que j'utilise pour diffuser ce blog sur le Fediverse est @Foutraque@piaille.fr (qui peut être simplifié par @Foutraque pour les utilisateurs de Piaille.fr).
 
-Fais une petite recherche sur le hashtag #introduction pour t'inspirer et commence à rédiger ta propre présentation (dans laquelle tu places le hashtag #introduction).<br>
+Fais une petite recherche sur le hashtag `#introduction` pour t'inspirer et commence à rédiger ta propre présentation (dans laquelle tu places toi aussi le hashtag `#introduction`).<br>
 C'est un très bon moyen de faire un premier pas vers les autres.
 
 ### Une application mobile ? Non, une dizaine
