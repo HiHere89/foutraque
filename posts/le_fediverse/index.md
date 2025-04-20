@@ -118,7 +118,7 @@ Et ce n'est pas juste affiché, c'est palpable au quotidien.
 Cette communauté est massivement peuplée de gens bienveillants :
 
 - Les nouveaux·elles membres sont encouragés à faire un post de présentation avec le hashtag `#introduction`. <br>
-Des membres vont repartager ta présentation pour s'assurer que ton message va bien voyager à travers les différentes contrées du Fediverse, juste pour s'assurer que tu seras bien accueilli. Pour te donner un maximum de chances d'être vu et d'avoir des propositions de connexion avec des gens qui auront un bon feeling avec toi.
+Des membres vont repartager ta présentation pour s'assurer que ton message va bien voyager à travers les différentes contrées du Fediverse, juste pour s'assurer que tu seras bien accueilli·e. Pour te donner un maximum de chances d'être vu·e et d'avoir des propositions de connexion avec des gens qui auront un bon feeling avec toi.
     
 - Les posts qui s'intéressent aux "minorités" sont bien plus représentés que sur aucun autre média traditionnel. Je n'ai jamais vu de réponses réactionnaires ou irrespectueuses à ces posts. Et si cela arrivait, les modérateurs des différents royaumes du Fediverse veillent au grain.
     
