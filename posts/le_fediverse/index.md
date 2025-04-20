@@ -93,11 +93,13 @@ C'est cet équilibre qui permet à la communauté Fediverse de partager autour d
 - sans avoir à assurer une posture sociale,
 - sans avoir à défendre ses positions le lendemain en famille ou au bureau.
 
-Je tiens à te rassurer. <br>
-Tous les posts ne sont pas sérieux et une majorité d'entre eux sont des posts "légers" qui créer du lien entre les membres.<br>
+
+Je tiens à te rassurer.
+
+Tous les posts ne sont pas sérieux et une majorité d'entre eux sont des posts "légers" qui créent du lien entre les membres.<br>
 Par exemple en partageant des anecdotes du quotidien.<br>
 Tu t'intégrera très bien même si tu n'as pas d'opinions militantes ou de vécu particulier à partager.<br>
-Certains partagent leurs découvertes sur internet, leur passion pour la photos, leurs dernières lectures, leur petit dej, leur états d'âmes, leur vie avec leurs animaux de compagnie...<br>
+Beaucoup partagent leurs découvertes sur internet, leur passion pour la photos, leurs dernières lectures, leur petit dej, leur états d'âmes, leur vie avec leurs animaux de compagnie...<br>
 
 ### Une communauté bienveillante et inclusive 💝
 
