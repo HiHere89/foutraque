@@ -161,7 +161,7 @@ Mais à quoi ça sert si personne d'entre nous n'a les capacités de communicati
 Whouhou, un réseau social constitué de 10 membres...🥳
 
 Heureusement, comme toutes les instances de tous les logiciels parlent le même langage et sont interconnectées, l'utilisateur d'une instance peut échanger avec les utilisateurs des autres instances. <br>
-Il peut donc rejoindre une instance installée sur un petit serveur par son ami informaticien qui accueille 10 utilisateurs et parler aux 15 millions d'utilisateurs du Fediverse répartis sur 20 000 instances (chiffre issus de cette [source](https://libera.site/channel/fediverse) qui indique aussi qu'il y a 7 000 nouveaux utilisateurs chaque jour 📈). <br>
+Il peut donc rejoindre une instance installée sur un petit serveur par son ami informaticien qui accueille 10 utilisateurs et parler aux 15 millions d'utilisateurs du Fediverse répartis sur 20 000 instances (chiffres issus de cette [source](https://libera.site/channel/fediverse) qui indique aussi qu'il y a 7 000 nouveaux utilisateurs chaque jour 📈). <br>
 
 ### Super, et donc ? 
 
