@@ -87,11 +87,17 @@ Voici mes suppositions qui pourraient expliquer cela :<br>
   2. La communauté attache de l'importance à garder cet univers bienveillant, les personnes problématiques sont donc rapidement repérées.<br>
   3. Vu que chaque instance est modérée par son administrateur ou par ceux à qui il délégue cette tâche, le nombre de modérateurs est possiblement relativement élevé par rapport au nombre de membres et facile à augmenter en cas de besoin. Des membres peuvent assurer ce rôle bénévolement puisqu'ils voient l'interêt de cette contribution.<br>
 
-C'est cet équilibre qui permet à la communauté Fediverse de partager autour de sujets sensibles, sans avoir à
-- affronter des insultes ou du harcèlement, 
-- défendre son ego (je suppose que c'est plus facile pour certain de changer d'avis sous pseudo), 
-- assurer une posture sociale,
-- défendre ses positions le lendemain en famille ou au bureau.
+C'est cet équilibre qui permet à la communauté Fediverse de partager autour de sujets sensibles
+- sans avoir à affronter des insultes ou du harcèlement, 
+- sans avoir à défendre son ego (je suppose que c'est plus facile pour certain de changer d'avis sous pseudo), 
+- sans avoir à assurer une posture sociale,
+- sans avoir à défendre ses positions le lendemain en famille ou au bureau.
+
+Je tiens à te rassurer. <br>
+Tous les posts ne sont pas sérieux et une majorité d'entre eux sont des posts "légers" qui créer du lien entre les membres.<br>
+Par exemple en partageant des anecdotes du quotidien.<br>
+Tu t'intégrera très bien même si tu n'as pas d'opinions militantes ou de vécu particulier à partager.<br>
+Certains partagent leurs découvertes sur internet, leur passion pour la photos, leurs dernières lectures, leur petit dej, leur états d'âmes, leur vie avec leurs animaux de compagnie...<br>
 
 ### Une communauté bienveillante et inclusive 💝
 
@@ -125,7 +131,9 @@ Bon ok, parfois, une personne le reproche sèchement (mais ces personnes ne sont
     
 - Toutes ces "règles de conduite" ne sont pas forcément écrites. <br>
 C'est la communauté qui les fait vivre et évoluer. <br>
+
 De la même façon, la communauté peut inventer des choses marrantes, comme l'animation du réseau en mode club med (un hashtag chaque jour de la semaine pour partager des films, des photos...)
+
 
 ## Pourquoi cette fois-ci serait différente ?
 
@@ -148,7 +156,7 @@ Voici les principaux :
 Tous ces logiciels sont "open source", c'est-à-dire que le code est publié publiquement et réutilisable. Tous ceux qui ont les compétences pour le faire sont autorisés à installer sur un serveur une "instance" de ce logiciel.
 
 Mais à quoi ça sert si personne d'entre nous n'a les capacités de communication pour attirer des millions de personnes sur son réseau, ni les moyens financiers pour maintenir les serveurs si cela arrivait ? <br>
-Whouhou 🥳, un réseau social constitué de 10 membres...
+Whouhou, un réseau social constitué de 10 membres...🥳
 
 Heureusement, comme toutes les instances de tous les logiciels parlent le même langage et sont interconnectées, l'utilisateur d'une instance peut échanger avec les utilisateurs des autres instances. <br>
 Il peut donc rejoindre une instance installée sur un petit serveur par son ami informaticien qui accueille 10 utilisateurs et parler aux 15 millions d'utilisateurs du Fediverse répartis sur 20 000 instances (chiffre issus de cette [source](https://libera.site/channel/fediverse) qui indique aussi qu'il y a 7 000 nouveaux utilisateurs chaque jour 📈). <br>
@@ -156,15 +164,17 @@ Il peut donc rejoindre une instance installée sur un petit serveur par son ami 
 ### Super, et donc ? 
 
 Et bien cela change tout ! 🎯
+
 Cela veut dire qu'il est économiquement possible de faire tourner de petits serveurs partout dans le monde sans avoir besoin de "rentabiliser" d'énormes investissements.<br>
 Donc plus besoin d'actionnaires, de régies publicitaires, de modèle économique pour les influenceurs.
 
 Et donc plus d'entreprise hégémonique 💲 qui décide unilatéralement de ce qu'elle veut faire de son réseau social dans lequel tous ses utilisateurs ont pourtant investi leur créativité, leurs données personnelles, leur temps.
 
 Un vaste réseau social est en train de naître, libéré des chaînes de l'argent 👊.
+
 Et tout ceci est rendu possible par la générosité de développeurs militants qui ont créé des logiciels complexes sans en attendre de rentabilité.<br>
-Par celle des administrateurs systèmes bénévoles (une autre espèce de geek, plus barbus 🧔‍♀️) qui financent, installent et maintiennent de petits serveurs (parfois au sein d'associations).
-Par celle de tous les contributeurs qui ont apporté leur pierre à l'édifice (spécifications produits, traduction, retour de bugs, développement des correctifs...)
+Par celle des administrateurs systèmes bénévoles (une autre espèce de geek, plus barbus 🧔‍♀️) qui financent, installent et maintiennent de petits serveurs (parfois au sein d'associations).<br>
+Par celle de tous les contributeurs qui ont apporté leur pierre à l'édifice (spécifications produits, traduction, retour de bugs, développement des correctifs...).<br>
 
 ### Ok, on est juste passé d'un modèle avec un seigneur à celui avec des barons ?
 
@@ -172,18 +182,20 @@ Comme on l'a vu, les détenteurs d'instances déploient des instances pour être
 Mais quel pouvoir ont-ils ? Sont ils devenus des barons autocratiques ? Quelles sont leurs motivations ?
 
 Beaucoup d'instances du Fediverse peuvent être utilisées gratuitement. <br>
-Parfois une participation est requise ou suggérée (ce qui me semble justifié).
+Parfois une participation est requise ou suggérée (ce qui me semble justifié).<br>
 Mais souvent les frais pour faire tourner les serveurs sont modérés car personne ne cherche à rentabiliser le développement logiciel souvent réalisés bénévolement ou financés par des associations. <br>
+
 À l'inverse des réseaux privés qui doivent rentabiliser des dizaines de millions d'euros de développement et de maintenance.<br>
 Les détenteurs d'instances du Fediverse ne cherchent donc pas à s'enrichir. Ils font souvent cela bénévolement, seul ou au sein d'une association.
 
-Cependant, ils ont un certain pouvoir : ils détiennent les données des utilisateurs de leur instance, ils définissent les règles de modération sur leur réseau et désignent ceux qui les appliqueront. Ils peuvent aussi refuser de se connecter à certaines instances.   
+Cependant, ils ont un certain pouvoir : ils détiennent les données des utilisateurs de leur instance, ils définissent les règles de modération sur leur réseau et désignent ceux qui les appliqueront. <br>
+Ils peuvent aussi refuser de se connecter à certaines instances.   
 
 Mais les utilisateurs ont un énorme contre-pouvoir : ils peuvent tout simplement changer d'instance. <br> 
 Contrairement à un réseau privé sur lequel tu perds ta communauté en partant, ici c'est assez facile de migrer vers une autre instance, connectée à la même communauté. <br>
-Les détenteurs d'instance n'ont pas donc de levier sur leurs utilisateurs et en ont bien conscience. 
+Les détenteurs d'instance n'ont donc pas de levier sur leurs utilisateurs et en ont bien conscience. 
 
-Ils apporte seulement leur contribution à ce beau projet collaboratif. Leur objectif est donc militant.
+Ils apportent seulement leur contribution à ce beau projet collaboratif. Leur objectif est donc militant.
 
 Et toi ? Qu'attends-tu ?
 
@@ -218,10 +230,10 @@ C'est un très bon moyen de faire un premier pas vers les autres.
 
 ### Une application mobile ? Non, une dizaine
 
-La plupart des logiciels du Fediverse ont une ou plusieurs applications mobiles compatibles.
+La plupart des logiciels du Fediverse ont une ou plusieurs applications mobiles compatibles.<br>
 Certaines applications mobiles sont aussi compatibles avec plusieurs logiciels (par exemple avec Friendica et Mastodon).
 
-Sur Android, le plus simple est d'utiliser l'application officielle [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android).
+Sur Android, le plus simple est d'utiliser l'application officielle [Mastodon](https://play.google.com/store/apps/details?id=org.joinmastodon.android).<br>
 Mais [beaucoup d'autres applications](https://joinmastodon.org/fr/apps) sont compatibles.
 
 ### Allez, je me lance ! Un dernier avertissement ?
@@ -231,8 +243,11 @@ Oui, la seule confidentialité sur le Fediverse est assurée par ton pseudo, qui
 Tes messages sont publiques par défaut (souvent lisibles sur internet sans même avoir de compte sur le Fediverse).<br>
 Lorsque tu envoies des messages à un groupe de destinataires restreints, tu dois avoir conscience que tes messages ne sont pas chiffrés (cela viendra peut-être).<br>
 Techniquement parlant, cela signifie qu'ils peuvent être lus par tous les détenteurs d'instances par lesquelles ton message transitera.
-Considère toujours que tes messages pourront être lus par des personnes autres que leurs destinataires (si cela les intéresse).
-Dans la pratique, il y a peu de chance qu'une personne mal intentionnée s'intéresse à tes messages puisque personne sur ce réseau ne publie de secrets bancaires. Évites aussi de publier des éléments qui dévoileraient ton identité (à moins que tu choisisses de ne pas profiter de l'anonymat) ou celle de quelqu'un d'autre IRL.
+
+Considère toujours que tes messages pourront être lus par des personnes autres que leurs destinataires (si cela les intéresse).<br>
+Dans la pratique, il y a peu de chance qu'une personne mal intentionnée s'intéresse à tes messages puisque personne sur ce réseau ne publie de secrets "exploitable" (données bancaires, données personnelles reliées à une idéntité).<br>
+
+Évites aussi de publier des éléments qui dévoileraient ton identité IRL (à moins que tu choisisses de ne pas profiter de l'anonymat) ou celle de quelqu'un d'autre.
 
 ### Quelques liens si tu veux aller plus loin
 
@@ -242,7 +257,7 @@ Dans la pratique, il y a peu de chance qu'une personne mal intentionnée s'inté
 
 ## C'est parti alors ? 🚀
 
-Oui, si tu as lu cet article jusqu'au bout :pray:, ce serait dommage d'avoir investi autant de temps sans bénéficier de la finalité :wink:.
+Oui ! Si tu as lu cet article jusqu'au bout :pray:, ce serait dommage d'avoir investi autant de temps sans bénéficier de la finalité :wink:.
 
 [Un nouveau monde](https://piaille.fr/) à portée de réseau 🌍.<br><br>
 
