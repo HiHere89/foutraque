@@ -2,8 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://foutraque.fr/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://foutraque.fr/posts/le_fediverse/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://foutraque.fr/posts/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://foutraque.fr/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://foutraque.fr/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://foutraque.fr/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://foutraque.fr/posts/le_fediverse/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://foutraque.fr/posts/</loc><lastmod>2025-04-17T14:10:34&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://foutraque.fr/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://foutraque.fr/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
