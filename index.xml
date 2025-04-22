@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Foutraque</title>
-        <link>https://hihere89.github.io/foutraque/</link>
+        <link>http://foutraque.fr/</link>
         <description>Une furieuse envie de partager ce qui me passe par la tête</description>
         <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 17 Apr 2025 14:10:34 &#43;0200</lastBuildDate>
-            <atom:link href="https://hihere89.github.io/foutraque/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://foutraque.fr/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Le Fediverse</title>
-    <link>https://hihere89.github.io/foutraque/posts/le_fediverse/</link>
+    <link>http://foutraque.fr/posts/le_fediverse/</link>
     <pubDate>Thu, 17 Apr 2025 14:10:34 &#43;0200</pubDate>
     <author>Me</author>
-    <guid>https://hihere89.github.io/foutraque/posts/le_fediverse/</guid>
+    <guid>http://foutraque.fr/posts/le_fediverse/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/fediverseNetwork2.webp" referrerpolicy="no-referrer">
             </div><p>Bienvenue à toi internaute, &#x1f44b;</p>
